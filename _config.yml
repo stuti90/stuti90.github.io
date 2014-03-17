@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Mostly Harmless
+tagline:          'A blag about nothing in particular'
+description:      'A blog about nothing in particular by <a href="https://twitter.com/stuti90" target="_blank">@stuti90</a>.'
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'Stuti Dhanvada'
+  url:            https://twitter.com/stuti90
+
+paginate:         5
+
+# Custom vars
