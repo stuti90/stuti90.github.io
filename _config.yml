@@ -6,16 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Mostly Harmless
+tagline:          'Blag'
+description:      'Data Analyst at <a href="http://viki.com" target="_blank">Viki</a>. Caffeine-powered, music-loving, tree-hugger. Tweet to me <a href="https://twitter.com/stuti90" target="_blank">@stuti90</a>.'
 url:              http://lanyon.getpoole.com
-baseurl:          'http://stuti90.github.io/'
+baseurl:          '/'
 paginate:         5
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Stuti'
+  url:            https://twitter.com/stuti90
 
 # Custom vars
 version:          1.0.0
