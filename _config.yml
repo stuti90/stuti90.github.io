@@ -10,7 +10,7 @@ title:            Mostly Harmless
 tagline:          'Blag'
 description:      'Data Analyst at <a href="http://viki.com" target="_blank">Viki</a>. Caffeine-powered, music-loving, tree-hugger. Tweet to me <a href="https://twitter.com/stuti90" target="_blank">@stuti90</a>.'
 url:              http://lanyon.getpoole.com
-baseurl:          '/'
+baseurl:          'stuti90.github.io/'
 paginate:         5
 
 author:
