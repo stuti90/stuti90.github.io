@@ -3,16 +3,28 @@ layout: page
 title: About
 ---
 
-### Weird third-person description
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-Stuti is a caffeine-powered music-addict living in Singapore. She listens to music like it’s her full-time job. (Somebody really ought to start paying her for it) Apart from that, her main interest lies in technology. She's a data analyst at an awesome global TV site called [viki.com](http://www.viki.com). In addition to analytics-y things, she also enjoys learning about product design/UI/UX. 
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-Oh, and she loves dogs. 
+There are currently two themes built on Poole:
 
-..and she's a tree-hugging vegetarian. (Ok, i'm finally done)
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-### Get in touch
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-Send an [email](mailto:stuti.d@gmail.com)
-or [tweet](https://twitter.com/stuti90)!
+## Setup
 
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+
+Thanks for reading!
